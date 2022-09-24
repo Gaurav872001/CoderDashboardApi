@@ -1,6 +1,6 @@
 # Diogenes
 
-File Uploader API for CoderSpace
+File Uploader API for CoderDashboard
 
 ## Routes
 
